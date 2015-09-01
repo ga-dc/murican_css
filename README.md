@@ -6,4 +6,4 @@
 
 Bonus: Make the blue part of the flag have 50 white stars!
 
-[http://ga-dc.github.io/murican_css](One solution)
+[One solution](http://ga-dc.github.io/murican_css)
